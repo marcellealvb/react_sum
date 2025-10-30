@@ -2,6 +2,8 @@ import React from 'react';
 import './App.scss';
 import { Sum } from './components/Sum/Sum';
 
+// Atualização para forçar nova revisão do PR
+
 export const App = () => (
   <>
     <Sum a={2} b={3} />
